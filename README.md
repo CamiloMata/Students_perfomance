@@ -2,7 +2,7 @@
 Un dashboard interactivo creado con Streamlit y Plotly para analizar el rendimiento académico de estudiantes, basado en factores demográficos y de preparación.
 
 Demo
-image.png
+![Demo de mi dashboard de Streamlit](image.png)
 
 Descripción General
 Este proyecto utiliza un conjunto de datos (ficticio o real) sobre el rendimiento de estudiantes para explorar cómo diferentes variables influyen en las puntuaciones de matemáticas, lectura y escritura.
@@ -94,4 +94,5 @@ Bash
 streamlit run dashboard.py
 
 Streamlit abrirá automáticamente el dashboard en tu navegador web predeterminado.
+
 
